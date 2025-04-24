@@ -101,12 +101,12 @@ const AddFood = () => {
                                     required
                                 >
                                     <option value="">Select food category</option>
-                                    <option value="biryani">Biryani</option>
-                                    <option value="pizza">Pizza</option>
-                                    <option value="burger">Burger</option>
-                                    <option value="cake">Cake</option>
-                                    <option value="salad">Salad</option>
-                                    <option value="ice-cream">Ice cream</option>
+                                    <option value="chicken">chicken</option>
+                                    <option value="grocerry">grocerry</option>
+                                    <option value="fruits">fruits</option>
+                                    <option value="cold drink">cold drink</option>
+                                    <option value="chocolate">chocolate</option>
+                                    <option value="dairy">dairy</option>
                                 </select>
                             </div>
                             <div className="mb-3">
